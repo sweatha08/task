@@ -1,0 +1,35 @@
+.checkbox {
+  width: 1375px;
+  padding-right: 25px;
+  font-size: 18px;
+  font-family: "Roboto Slab", serif;
+  position: absolute;
+  top: auto;
+  left: 115px;
+}
+form input[type="checkbox"] {
+  text-align: center;
+  padding-right: 2px;
+  margin-right: 1px;
+  margin-left: 5px;
+  width: 25px;
+  height: 15px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  position: relative;
+  right: 0px;
+}
+.Lang label {
+  position: absolute;
+  left: 250px;
+  width: 400px;
+}
+.Lang input {
+  position: relative;
+  right: 0px;
+}
+.apply label {
+  position: absolute;
+  left: 250px;
+  width: 400px;
+}

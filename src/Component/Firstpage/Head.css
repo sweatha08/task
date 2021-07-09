@@ -1,0 +1,432 @@
+img {
+  position: absolute;
+  left: 230px;
+  top: 25px;
+  height: 115px;
+  width: 300px;
+}
+.Header {
+  width: 750px;
+  height: 175px;
+  padding-top: 25px;
+}
+.head,
+.head-1 {
+  border-radius: 20px;
+  left: 725px;
+  top: 0px;
+  width: 750px;
+  padding-left: 50px;
+  position: absolute;
+  height: 175px;
+  background-color: #1597bb;
+}
+.head h1 {
+  padding-left: 0px;
+  left: 150px;
+  width: 500px;
+  padding-right: 50px;
+  color: white;
+  text-align: right;
+  position: absolute;
+  right: 300px;
+  top: 30px;
+  padding-top: 10px;
+  font-family: "Cinzel", serif;
+}
+h5 {
+  background-color: #f0f5f9;
+  width: 1450;
+  font-size: 25px;
+  font-family: "Tinos", serif;
+  width: 1400px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 25px;
+}
+.content {
+  font-family: "Roboto Slab", serif;
+  text-align: left;
+  font-size: large;
+  width: 1000px;
+  padding-top: 150px;
+  padding-left: 125px;
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+.content p {
+  line-height: 30px;
+}
+.form {
+  height: 1200px;
+  width: 1517px;
+  padding: 50px;
+}
+label {
+  position: absolute;
+  padding: 5px 20px;
+  left: 100px;
+  font-size: 20px;
+  width: 461px;
+  text-align: left;
+  font-family: "Roboto Slab", serif;
+}
+input {
+  position: relative;
+  right: 75px;
+  font-size: 17px;
+  border-radius: 8px;
+  text-align: left;
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 250px;
+  height: 25px;
+  font-family: "Roboto Slab", serif;
+  text-transform: capitalize;
+}
+
+.radio {
+  width: 1375px;
+  padding-right: 25px;
+  font-size: 18px;
+  font-family: "Roboto Slab", serif;
+}
+form input[type="radio"] {
+  padding-right: 2px;
+  margin-right: 1px;
+  margin-left: 0px;
+  width: 25px;
+  height: 15px;
+  padding-bottom: 5px;
+  text-align: left;
+  margin-top: 15px;
+  position: relative;
+  right: 0px;
+}
+.addr label {
+  position: absolute;
+  background-color: beige;
+  left: 650px;
+
+  padding-right: 0px;
+  padding-left: 10px;
+  width: 175px;
+}
+.addr input {
+  width: 250px;
+  position: absolute;
+  left: 875px;
+}
+
+.pass input {
+  position: absolute;
+  left: 475px;
+  width: 250px;
+}
+.port label {
+  position: absolute;
+  left: 820px;
+  width: 125px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.port input {
+  position: absolute;
+  width: 250px;
+  left: 1085px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgray;
+  border-width: 5px;
+  width: 5%;
+  position: relative;
+  top: 65px;
+  right: auto;
+  left: 700px;
+  right: 0px;
+  width: 75px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.acc label {
+  width: 300px;
+}
+.acc input {
+  position: absolute;
+  width: 250px;
+  left: 450px;
+  margin-left: 25px;
+}
+.acc1 label {
+  position: absolute;
+  right: 100px;
+  width: 250px;
+  left: 786px;
+  top: 2562px;
+}
+.acc1 input {
+  position: absolute;
+  width: 250px;
+  top: 2562px;
+  left: 1050px;
+}
+.acc1-1 label {
+  position: absolute;
+  right: 100px;
+  width: 250px;
+  top: 2608px;
+  left: 785px;
+}
+.acc1-1 input {
+  position: absolute;
+  width: 250px;
+  left: 1050px;
+  top: 2608px;
+}
+.link {
+  padding-top: 75px;
+  font-size: 1.5em;
+}
+.imgs {
+  position: absolute;
+  top: 300px;
+  left: 1130px;
+  width: 150px;
+  height: 150px;
+  padding-top: 360px;
+  object-fit: fill;
+}
+
+.labels {
+  position: absolute;
+  left: 1100px;
+  top: 850px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.image-upload {
+  margin: auto;
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  left: 0px;
+}
+.accc {
+  position: absolute;
+
+  bottom: 507px;
+  top: 26px;
+  left: 35px;
+}
+.border {
+  width: 1300px;
+  border-style: solid;
+  border-radius: 25px;
+  padding: 50px;
+  border-color: #e1e5ea;
+  border-left-width: 5px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-right-width: 5px;
+}
+table {
+  width: 1345px;
+  font-size: 17px;
+  border-style: solid;
+  border-radius: 25px;
+  padding: 50px;
+  border-color: #e1e5ea;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  margin-left: 30px;
+}
+td input {
+  width: 170px;
+  position: relative;
+  right: 0%;
+
+  box-shadow: #faf3f3;
+}
+td {
+  padding: 15px;
+  font-size: 20px;
+  font-family: "Roboto Slab", serif;
+}
+th {
+  font-size: large;
+  font-family: "Roboto Slab", serif;
+}
+.edu {
+  height: 480px;
+}
+.edu-inst h4 {
+  text-align: left;
+  font-size: 20px;
+  padding-left: 50px;
+}
+.edu-inst label {
+  text-align: left;
+  font-size: 20px;
+}
+.edu-inst input {
+  position: absolute;
+  left: 435px;
+  font-size: 18px;
+}
+
+.edu-inst-1 h4 {
+  text-align: right;
+  font-size: 20px;
+  position: absolute;
+  left: 860px;
+  top: 4180px;
+}
+.edu-inst-1 label {
+  position: absolute;
+}
+.edu-inst-1 input {
+  position: absolute;
+  font-size: 18px;
+}
+.contents {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-left: 10px;
+}
+.contents h4 {
+  font-size: 25px;
+}
+.training label {
+  position: absolute;
+  left: 245px;
+  padding-left: 15px;
+}
+.training input {
+  padding-left: 15px;
+  position: absolute;
+  left: 695px;
+}
+textarea {
+  height: 100px;
+  width: 1000px;
+  border-color: #e1e5ea;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+}
+.rows .table {
+  width: 1000px;
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+h6 {
+  background-color: #e2e2e2;
+  width: 1250px;
+  font-size: 25px;
+  font-family: "Tinos", serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 65px;
+  margin-top: 25px;
+  font-size: 20px;
+  font-family: "Roboto Slab", serif;
+}
+th {
+  font-size: 19px;
+}
+.title1 label {
+  padding-left: 200px;
+}
+.title1 input {
+  position: absolute;
+  left: 850px;
+}
+.last-1 label {
+  position: absolute;
+  left: 0px;
+}
+.last-1 input {
+  position: absolute;
+  left: 325px;
+}
+.sign input {
+  margin-left: 890px;
+}
+.Workexp .table-work {
+  width: 1250px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  border-width: 3.5px;
+}
+.Req-Date {
+  position: absolute;
+  left: 1000px;
+  bottom: 420px;
+}
+.heading-content label {
+  position: absolute;
+  left: 300px;
+  text-align: left;
+}
+.heading-content input {
+  position: absolute;
+  right: 375px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 250px;
+  height: 25px;
+}
+.heading-content-2 input {
+  position: absolute;
+  left: 425px;
+}
+.heading-content-3 input {
+  position: absolute;
+  left: 425px;
+}
+.heading-content-4 {
+  font-family: "Roboto Slab", serif;
+  text-align: left;
+  font-size: large;
+  width: 1250px;
+  padding-left: 125px;
+  height: 0px;
+}
+.content-4 input {
+  position: absolute;
+  left: 425px;
+}
+.drop {
+  margin-left: 882px;
+  border-radius: 5px;
+  width: 259px;
+  font-size: 19px;
+  font-family: "Roboto Slab", serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.radio-first {
+  margin-left: 865px;
+  width: 250px;
+}
+.head-1 h1 {
+  padding-left: 0px;
+  left: 150px;
+  width: 500px;
+  padding-right: 50px;
+  color: white;
+  text-align: right;
+  position: absolute;
+  right: 300px;
+  top: 30px;
+  padding-bottom: 10px;
+  font-family: "Cinzel", serif;
+}
