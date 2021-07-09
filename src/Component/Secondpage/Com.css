@@ -1,0 +1,193 @@
+
+h2 {
+    font-size: xx-large;
+    position: relative;
+    left: 751px;
+    top: -14px;
+    color: white;
+    background-color: #8fd6e1;
+    padding-top: 37px;
+    font-family: 'Cinzel', serif;
+    height: 148px;
+    border-radius: 25px;
+    width: 834px;
+}
+
+.Pro{
+    position: relative;
+    top: -13px;
+    left: 0px;
+    padding-left: 100px;
+    padding-right: 409px;
+    height: 170px;
+    width: 536px;
+    color: white;
+}
+.Pro img {
+    height: 115px;
+    width: 300px;
+    position: absolute;
+    top: 15px;
+    left: 247px;
+    right: 0px;
+    }
+  
+.first
+{
+    position: relative;
+    top: 50px;
+    left: 573px;
+    padding-left: 350px;
+    padding-right: 350px;
+    height: 90px;
+    width: 1000px;
+}
+h1{
+    text-align: center;
+    font-size: 28px;
+    color: black;
+    width: 1700px;
+    font-family: 'Tinos', serif;
+    padding-left: 0px;
+    position: relative;
+    right: 923px;
+    height: 46px;
+    top: -32px;
+    padding-top: 0px;
+}
+h5{
+    text-align: center;
+    font-size: 28px;
+    color: black;
+    background-color: #E1E5EA;
+    width: 1700px;
+    font-family: 'Tinos', serif;
+    padding-left: 0px;
+    position: relative;
+    right: 923px;
+    height: 46px;
+    top: -16px;
+    padding-top: 10px;
+}
+p{ 
+    text-align: justify;
+    margin-top: 0px;
+    position: relative;
+    right: 888px;
+    margin-bottom: 0px;
+    width: 1609px;
+    font-family: 'Roboto Slab', serif;
+    padding-right: 800px;
+    padding-bottom: 29px;
+    padding-left: 0px;
+    top: -16px;
+    font-size: 22px;
+    color: black;
+}
+h4{
+    text-align: justify;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Tinos', serif;
+    width: 1632px;
+    position: relative;
+    right: 0px;
+    top: -19px;
+    padding-right: 0px;
+}
+input{
+    position: relative;
+    right: 1031px;
+    width: 250px;
+    bottom: 76px;
+    height:30px;
+}
+h6{
+    text-align: justify;
+    margin-top: 0px;
+    position: relative;
+    font-family: 'Tinos', serif;
+    right: 888px;
+    margin-bottom: 0px;
+    width: 230px;
+    padding-right: 800px;
+    padding-bottom: 29px;
+    padding-left: 0px;
+    top: -16px;
+    font-size: 22px;
+    color: black;
+}
+
+
+.sign label{
+    font-size: 30px;
+    position: absolute;
+    font-family: 'Roboto Slab', serif;
+    left: -550px;
+    padding-top: 17px;
+}
+.sign input{
+    font-size: 18px;
+    left: -1076px;
+    padding-top: 96px;
+    height: 26px;
+}
+
+.Date label{
+    font-size: 30px;
+    position: absolute;
+    left: 485px;
+    padding-top: 2px;
+
+}
+.Date input{
+    position: relative;
+    top: 6px;
+    right: 0px;
+    left: -100px;
+
+}
+.Name label{
+    font-size: 30px;
+    position: absolute;
+    font-family: 'Roboto Slab', serif;
+    left: -549px;
+    padding-top: 0px;
+    
+
+}
+.Name input{
+    font-size: 20px;
+    left: -1084px;
+    padding-top: 15px;
+    top: -19px;
+}
+.department label{
+    font-size: 30px;
+    position: absolute;
+    font-family: 'Roboto Slab', serif;
+    left: -558px;
+    padding-top: 16px;
+    
+}
+.department input{
+    font-size: 20px;
+    left: -1088px;
+    padding-top: 15px;
+    top: 1px;
+}
+.Location label{
+    font-size: 30px;
+    position: absolute;
+    font-family: 'Roboto Slab', serif;
+    left: -558px;
+    padding-top: 27px;
+    
+}
+.Location input{
+    font-size: 20px;
+    left: -1088px;
+    padding-top: 15px;
+    top: 13px;
+}

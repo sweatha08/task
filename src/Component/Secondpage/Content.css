@@ -1,0 +1,153 @@
+.header {
+  position: relative;
+  top: -13px;
+  left: 0px;
+  padding-left: 50px;
+  padding-right: 409px;
+  height: 170px;
+  width: 536px;
+  color: white;
+}
+.head_content h1 {
+  padding-left: 0px;
+  left: 150px;
+  width: 500px;
+  padding-right: 50px;
+  color: white;
+  text-align: right;
+  position: absolute;
+  right: 300px;
+  top: 30px;
+  padding-top: 10px;
+  font-family: "Cinzel", serif;
+}
+
+.img_logo_content {
+  position: absolute;
+  left: 230px;
+  top: 25px;
+  height: 115px;
+  width: 300px;
+}
+
+.head_1 {
+  position: relative;
+  top: 300px;
+  left: 0px;
+  height: 90px;
+  width: 1000px;
+}
+
+.h6_content {
+  background-color: #e2e2e2;
+  width: 1250px;
+  font-size: 25px;
+  font-family: "Tinos", serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 65px;
+  margin-top: 25px;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+}
+.h5_content {
+  background-color: #f0f5f9;
+  width: 1450px;
+  color: black;
+  font-size: 23px;
+  font-family: "Tinos", serif;
+  width: 1400px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 25px;
+  text-align: center;
+}
+.content-para {
+  text-align: justify;
+  margin-top: 0px;
+  position: relative;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  width: 1425px;
+  font-family: "Roboto Slab", serif;
+  padding-bottom: 29px;
+  top: -16px;
+  font-size: 21px;
+  color: black;
+}
+
+.form-content {
+  position: relative;
+  top: 15px;
+  left: 0px;
+  padding-left: 600px;
+  padding-right: 409px;
+  height: 170px;
+  width: 536px;
+  color: black;
+}
+
+.Date label {
+  font-size: 22px;
+  position: absolute;
+  right: 1622px;
+  padding-top: 2px;
+}
+.Date input {
+  position: relative;
+  top: 6px;
+  right: 0px;
+  left: -100px;
+}
+.Name_content label {
+  font-size: 22px;
+  position: absolute;
+  font-family: "Roboto Slab", serif;
+  left: 100px;
+  padding-top: 0px;
+}
+.Name_content input {
+  font-size: 17px;
+  right: 435px;
+  padding-top: 10px;
+  top: -17px;
+}
+.department label {
+  font-size: 22px;
+  position: absolute;
+  font-family: "Roboto Slab", serif;
+  left: 100px;
+  padding-top: 10px;
+}
+.department input {
+  font-size: 17px;
+  right: 435px;
+}
+.Location label {
+  font-size: 22px;
+  position: absolute;
+  font-family: "Roboto Slab", serif;
+  left: 100px;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+.Location input {
+  font-size: 17px;
+  right: 435px;
+  margin-top: 20px;
+}
+.sign-content-con label {
+  font-size: 25px;
+  position: absolute;
+  font-family: "Roboto Slab", serif;
+  right: 1038px;
+  padding-top: 167px;
+}
+.sign-content-con input {
+  font-size: 18px;
+  right: 400px;
+  padding-top: 0px;
+  height: 26px;
+}
